@@ -42,7 +42,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Luís Silva - [@chupamosfff](https://twitter.com/chupamosfff) - luis.fmsilva@hotmail.com
+Luís Silva - luis.fmsilva@hotmail.com
 
 
 
