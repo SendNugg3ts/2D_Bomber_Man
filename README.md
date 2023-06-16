@@ -17,7 +17,7 @@ THE GAME IS NOT FINISHED
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/your_username_/2D_Bomber_Man.git
    ```
 2. Open it on your favorite code editor and run the main class or just download the jar file with java SE installed
 
